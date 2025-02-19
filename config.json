@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "Compress": [".zip", ".7z", ".rar", ".tar", ".gz", ".bz2", ".xz"],
+        "Program": [".exe", ".apk", ".msi", ".bat", ".sh"],
+        "Photo": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".webp"],
+        "Documents": [".doc", ".docx", ".pdf", ".txt", ".xlsx", ".xls", ".pptx", ".ppt", ".odt", ".rtf", ".csv"]
+    },
+    "protected_items": [".git", "venv", "__pycache__", ".idea", ".vscode", "node_modules"],
+    "script_extensions": [".py", ".pyw"]
+}
